@@ -1,5 +1,5 @@
 # HTML-Learning-Path
-# HTML Learning Path
+
 
 Welcome to the **HTML Learning Path** repository! 🚀 This structured roadmap will guide you through mastering HTML step by step, from the basics to advanced topics. Each section includes explanations, exercises, and projects to reinforce learning.
 
